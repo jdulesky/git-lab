@@ -37,4 +37,4 @@ Initial commit
 
 12)The changes were reflected in my local copy, the message "Already up to date printed".
 
-13).         ..          .git            .gitignore      README.md
+13).            ..              .git            .gitignore      README.md
