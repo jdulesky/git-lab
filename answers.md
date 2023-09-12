@@ -15,9 +15,9 @@ Untracked files:
         answers.md
 nothing added to commit but untracked files present (use "git add" to track)
 
-5)The command changes the color of the file in the folder.
+5)I added the file README.md to the staging area to be tracked.
 
-6)The command changes the color of the file in the folder.
+6)I added the file answers.md to the staging area to be tracked with README.md
 
 7)[main (root-commit) 7c07021] Initial commit
  2 files changed, 0 insertions(+), 0 deletions(-)
@@ -37,4 +37,4 @@ Initial commit
 
 12)The changes were reflected in my local copy, the message "Already up to date printed".
 
-13)
+13).         ..          .git            .gitignore      README.md
